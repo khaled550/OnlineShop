@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#303f9f</color>
     <color name="colorAccent">#FF4081</color>
     <color name="material_bottom_sheet_background_fill">@color/material_color_white</color>
     <color name="material_bottom_sheet_contents_text_color">@color/material_typography_primary_text_color_dark</color>
